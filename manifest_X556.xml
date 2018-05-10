@@ -10,7 +10,7 @@
     <!-- device tree -->
     <project path="device/Infinix/X556" name="HOT4Pro-OreoDevelopers/android_device_Infinix_X556" remote="github" revision="master" />
     <!-- kernel -->
-    <project path="kernel/Infinix/X556" name="HOT4Pro-OreoDevelopers/kernel_Infinix_X556" remote="github" revision="master" />
+    <project path="kernel/Infinix/X556" name="nasreirma/android_kernel_Infinix_X556" remote="github" revision="X556N" />
     <!-- vendor -->
     <project path="vendor/Infinix/X556" name="HOT4Pro-OreoDevelopers/vendor_Infinix_X556" remote="github" revision="master" />
 
